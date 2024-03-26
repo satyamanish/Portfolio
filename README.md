@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/satyamanish?logo=github&style=for-t
 ### Badges
 # Badges 
 
-[![An image of @dipayansarkar47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipayansarkar47)](https://holopin.io/@dipayansarkar47)
+[![An image of @satyamanish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamanish)](https://holopin.io/@dipayansarkar47)
 
 <b>My GitHub Stats</b>
 
