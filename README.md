@@ -1,5 +1,5 @@
-@@ -1,28 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dipayan Sarkar
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayavarapu Satya Sai Manish
 ======================================================================================================================================
 <h4>A  Business Intelligence Analyst | Power BI Developer</h4>
 - 🔭 Over three years of IT experience working with a variety of tools, including Teradata, Microsoft Power BI, SSAS.
