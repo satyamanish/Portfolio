@@ -16,6 +16,7 @@ src="https://img.shields.io/github/followers/satyamanish?logo=github&style=for-t
     <a href="https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" width=40 height=40/></a>
     <a href="[https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html](https://www.postgresql.org/docs/)" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-9-1175120.png" width=40 height=40/></a>
     <a href="[https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html](https://www.postgresql.org/docs/)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Teradata_Logo.png" width=120 height=40/></a>
+    <a href="https://cloud.google.com/docs/" target="_blank"><img src="https://images.app.goo.gl/Pcs9hjoHZY6XoJhy5" width=120 height=40/></a>
 </p>
 
 <h3 align="left">Tools:</h3>
