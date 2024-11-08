@@ -25,6 +25,9 @@ src="https://img.shields.io/github/followers/satyamanish?logo=github&style=for-t
   <a target="_blank" href="#"><img width=90 height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1024px-Microsoft_Azure_Logo.svg.png"/></a>
      <a href="https://cloud.google.com/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width=120 height=40/></a>
      <a href="https://help.qlik.com/en-US/qlikview/May2024/Subsystems/QMC/Content/QV_QMC/QMC_Documents.htm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width=120 height=40/></a>
+    <a target="_blank" href="#"><img width=40 height=40 src="https://datascientest.com/en/files/2023/09/illu_azure_factory-34-1024x562-1.jpg"/></a>
+     <a target="_blank" href="#"><img width=40 height=40 src="https://miro.medium.com/v2/resize:fit:1200/1*do1ktvGR9Cj6vzFBu_8Irw.png"/></a>
+    <a target="_blank" href="#"><img width=40 height=40 src="https://www.optimusinfo.com/wp-content/uploads/2020/09/synapse-case-case.png"/></a>
 </p>
 
 
