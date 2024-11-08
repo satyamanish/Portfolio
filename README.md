@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/satyamanish?logo=github&style=for-t
   <a target="_blank" href="#"><img width=120 height=40 src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG.png"/></a>
   <a target="_blank" href="#"><img width=40 height=40 src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png"/></a>
   <a target="_blank" href="#"><img width=40 height=40 src="https://i.pinimg.com/originals/de/64/d7/de64d743a8572ab912c1229ec7608249.png"/></a>
-  <a target="_blank" href="#"><img width=40 height=40 src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png"/></a>
+  <a target="_blank" href="#"><img width=40 height=40 src="https://i.pinimg.com/736x/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.jpg"/></a>
   <a target="_blank" href="#"><img width=90 height=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1024px-Microsoft_Azure_Logo.svg.png"/></a>
      <a href="https://cloud.google.com/docs/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/1280px-Looker.svg.png" width=120 height=40/></a>
      <a href="https://help.qlik.com/en-US/qlikview/May2024/Subsystems/QMC/Content/QV_QMC/QMC_Documents.htm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width=120 height=40/></a>
