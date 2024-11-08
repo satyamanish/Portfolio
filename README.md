@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayavarapu Satya Sai Manish
 ======================================================================================================================================
-<h4>A  Business Intelligence Analyst | Power BI Developer</h4>
+<h4>A  Data Engineer | Business Intelligence Analyst | Power BI Developer</h4>
 - 🔭 Over five years of IT experience working with a variety of tools, including Teradata, Microsoft Power BI, SSAS, Databricks, Synapse, Data Factory, Azure Data Lake Storage (Gen 2), Cosmos DB.
 - 🌱 I’m Interested to work on Data Analysis
 <a href="https://github.com/satyamanish" target="_blank" rel="noreferrer"><img
